@@ -1,8 +1,7 @@
 Final Report
 Team Members and Group: 
 Chum Phalla, Sam Sotheara (Group 1)
-Project Title: 
-Simple but not So Simple Calculator
+Project Title: Simple but not So Simple Calculator
 1. Introduction
 Brief description of the problem and its relevance.
 
